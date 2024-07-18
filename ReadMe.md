@@ -1,16 +1,12 @@
-
-Alternatively, you can use the HTML line break tag `<br>`:
-
 ```markdown
 Web use ASP.NET core, RazorPage, SignalR<br>
-DB: SQL Server<br>
+DB: SQL Server
 
-How to RUN:<br>
-1: dotnet ef database update<br>
-2: Set StartUP Project --> ShopWEB<br>
+How to RUN:
+1: dotnet ef database update
+2: Set StartUP Project --> ShopWEB
 
-If using .NET 8, change the following:<br>
-```xml
+If using .NET 8, change the following:
 <PropertyGroup>
   <TargetFramework>net7.0</TargetFramework> <!-- change to 8.0 -->
   <ImplicitUsings>enable</ImplicitUsings>
