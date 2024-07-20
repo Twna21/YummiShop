@@ -1,3 +1,11 @@
+using BusinessObject;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Repository;
+using System.Security.Claims;
 namespace ShopWeb
 {
     public class Program
@@ -5,9 +13,35 @@ namespace ShopWeb
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            var configuration = builder.Configuration;
             // Add services to the container.
             builder.Services.AddRazorPages();
+
+            builder.Services.AddAuthentication().AddGoogle(googleOptions =>
+            {
+                googleOptions.ClientId = configuration["Authentication:Google:ClientId"];
+                googleOptions.ClientSecret = configuration["Authentication:Google:ClientSecret"];
+                googleOptions.CallbackPath = "/login-google";
+                googleOptions.Scope.Add("profile");
+                googleOptions.Events.OnCreatingTicket = (context) =>
+                {
+                    var picture = context.User.GetProperty("picture").GetString();
+
+                    context.Identity.AddClaim(new Claim("picture", picture));
+
+                    return Task.CompletedTask;
+                };
+            });
+
+            var connectionString = builder.Configuration.GetConnectionString("Project");
+
+            builder.Services.AddSingleton<IAccountRepository, AccountRepository>();
+            builder.Services.AddDbContext<ShopIdentityDbContext>(options =>
+                options.UseSqlServer(connectionString));
+            builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ShopIdentityDbContext>();
 
             var app = builder.Build();
 
