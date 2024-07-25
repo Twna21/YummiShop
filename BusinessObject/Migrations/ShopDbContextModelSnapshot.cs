@@ -30,6 +30,9 @@ namespace BusinessObject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AccountID"));
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
@@ -50,6 +53,9 @@ namespace BusinessObject.Migrations
 
                     b.Property<byte>("Type")
                         .HasColumnType("tinyint");
+
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("AccountID");
 
@@ -80,6 +86,9 @@ namespace BusinessObject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
+                    b.Property<int?>("AccountID")
+                        .HasColumnType("int");
+
                     b.Property<int?>("CustomerId")
                         .HasColumnType("int");
 
@@ -99,6 +108,8 @@ namespace BusinessObject.Migrations
                         .HasColumnType("tinyint");
 
                     b.HasKey("OrderId");
+
+                    b.HasIndex("AccountID");
 
                     b.ToTable("Orders");
                 });
@@ -154,6 +165,13 @@ namespace BusinessObject.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("BusinessObject.Order", b =>
+                {
+                    b.HasOne("BusinessObject.Account", null)
+                        .WithMany("Orders")
+                        .HasForeignKey("AccountID");
+                });
+
             modelBuilder.Entity("BusinessObject.OrderDetail", b =>
                 {
                     b.HasOne("BusinessObject.Order", "Order")
@@ -182,6 +200,11 @@ namespace BusinessObject.Migrations
                         .IsRequired();
 
                     b.Navigation("Categories");
+                });
+
+            modelBuilder.Entity("BusinessObject.Account", b =>
+                {
+                    b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("BusinessObject.Category", b =>

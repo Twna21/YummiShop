@@ -1,8 +1,11 @@
 using BusinessObject;
+using Repository.MailService;
+using Repository.MailUtils;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using Repository;
 using System.Security.Claims;
@@ -35,13 +38,35 @@ namespace ShopWeb
 
             var connectionString = builder.Configuration.GetConnectionString("Project");
 
+            builder.Services.AddSignalR();
+
             builder.Services.AddSingleton<IAccountRepository, AccountRepository>();
+            builder.Services.AddSingleton<IProductRepository, ProductRepository>();
+            builder.Services.AddSingleton<IOrderDetailRepository, OrderDetailRepository>();
+            builder.Services.AddSingleton<IOrderRepository, OrderRepository>();
+            builder.Services.AddSingleton<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddSingleton<IOtpService, OtpService>();
+
+            var mailSettings = builder.Configuration.GetSection("MailSettings");
+            builder.Services.Configure<MailSettings>(mailSettings);
+            builder.Services.AddTransient<ISendGmailService, SendGmailService>();
+
             builder.Services.AddDbContext<ShopIdentityDbContext>(options =>
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ShopIdentityDbContext>();
+
+
+
+            builder.Services.AddSession((options) =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
+            builder.Services.AddDistributedMemoryCache();
 
             var app = builder.Build();
 
@@ -53,13 +78,19 @@ namespace ShopWeb
                 app.UseHsts();
             }
 
+            app.UseSession();
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapRazorPages();
+            });
+            app.MapHub<SignalRServer>("/signalrServer");
             app.MapRazorPages();
 
             app.Run();

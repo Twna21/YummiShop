@@ -14,6 +14,7 @@ namespace Repository
         Task Add(Account pro);
         Task Update(Account pro);
         Task Delete(Account pro);
-        Task GetAccountByEmail(string pro);
+        Task<Account> GetAccountByEmail(string pro);
+        Task ResetPassword(string email, string newPassword);
     }
 }

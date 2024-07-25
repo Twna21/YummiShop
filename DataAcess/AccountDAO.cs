@@ -42,8 +42,17 @@ namespace DataAcess
         public async Task<Account> GetAccountByEmail(string email)
         {
             var _context = new ShopDbContext();
-            var Account = await _context.Accounts.SingleOrDefaultAsync(s => s.Email.ToLower().Equals(email.ToLower()));
-            return Account;
+            var Account = await _context.Accounts.SingleOrDefaultAsync(s => s.Email == email);
+
+            if (Account != null)
+            {
+                return Account;
+            }
+            else
+            {
+                Console.WriteLine($"User with email = {email} can't be found");
+                return null;
+            }
         }
 
 
@@ -78,8 +87,35 @@ namespace DataAcess
 
         }
 
+        public async Task ResetPassword(string email, string newPassword)
+        {
+            var _context = new ShopDbContext();
+            var account = await GetAccountByEmail(email);
+            if (account != null)
+            {
+                account.Password = HashPassword(newPassword); // Assuming you hash the password
+                _context.Accounts.Update(account);
+                await _context.SaveChangesAsync();
+            }
+            else
+            {
+                throw new ArgumentException("User with the specified email does not exist");
+            }
+        }
+
+        private string HashPassword(string password)
+        {
+            using (var md5 = System.Security.Cryptography.MD5.Create())
+            {
+                var hashedBytes = md5.ComputeHash(Encoding.UTF8.GetBytes(password));
+                return BitConverter.ToString(hashedBytes).Replace("-", "").ToUpper();
+            }
+        }
 
 
-       
+
+
     }
+
+
 }

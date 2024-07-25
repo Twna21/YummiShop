@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopWeb
+build_property.RootNamespace = ShopWeb
+build_property.ProjectDir = D:\FPT Course\Summer2024\PRN221\Project\Shop\ShopWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPT Course\Summer2024\PRN221\Project\Shop\ShopWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Accounts/AccountManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWNjb3VudE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/CategoryManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlNYW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cZGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/Getproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cR2V0cHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/OrderManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJNYW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/ProductManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/CheckOtp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cQ2hlY2tPdHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/forgotPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cZm9yZ290UGFzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cbG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/PasswordResetConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cUGFzc3dvcmRSZXNldENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Login/resetpass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5ccmVzZXRwYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEZvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/HeaderParital.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEhlYWRlclBhcml0YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Users/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ubw9867rqb

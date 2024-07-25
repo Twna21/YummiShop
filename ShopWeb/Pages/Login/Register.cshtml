@@ -1,0 +1,145 @@
+﻿@page
+@model ShopWeb.Pages.Login.RegisterModel
+@{
+    Layout = "";
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .bodi {
+            background: rgb(99, 39, 120);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .register-form {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .form-control:focus {
+            box-shadow: none;
+            border-color: #BA68C8;
+        }
+
+        .register-button {
+            background: rgb(99, 39, 120);
+            box-shadow: none;
+            border: none;
+            width: 100%;
+        }
+
+            .register-button:hover {
+                background: #682773;
+            }
+
+            .register-button:focus {
+                background: #682773;
+                box-shadow: none;
+            }
+
+            .register-button:active {
+                background: #682773;
+                box-shadow: none;
+            }
+
+        .labels {
+            font-size: 11px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid bodi">
+        <div class="register-form">
+            <h3 class="text-center mb-4">Register</h3>
+            <form id="registerForm" method="post">
+                <div class="mb-3">
+                    <label asp-for="Input.FullName" class="form-label labels"></label>
+                    <input asp-for="Input.FullName" class="form-control" placeholder="Full Name">
+                    <span asp-validation-for="Input.FullName" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Input.Email" class="form-label labels"></label>
+                    <input asp-for="Input.Email" class="form-control" placeholder="Email">
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Input.Password" class="form-label labels"></label>
+                    <input asp-for="Input.Password" type="password" class="form-control" placeholder="Password">
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Input.ConfirmPassword" class="form-label labels"></label>
+                    <input asp-for="Input.ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password">
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <button class="btn btn-primary register-button" type="submit">Register</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.validator.addMethod("pattern", function (value, element, param) {
+                return this.optional(element) || param.test(value);
+            }, "Invalid input format.");
+
+            $("#registerForm").validate({
+                rules: {
+                    "Input.FullName": {
+                        required: true,
+                        pattern: /^[\p{L}\s]+$/u
+                    },
+                    "Input.Email": {
+                        required: true,
+                        email: true
+                    },
+                    "Input.Password": {
+                        required: true,
+                        minlength: 6
+                    },
+                    "Input.ConfirmPassword": {
+                        required: true,
+                        equalTo: "#Input_Password"
+                    }
+                },
+                messages: {
+                    "Input.FullName": {
+                        required: "Please enter your full name",
+                        pattern: "Full name can only contain letters and spaces"
+                    },
+                    "Input.Email": {
+                        required: "Please enter your email",
+                        email: "Please enter a valid email"
+                    },
+                    "Input.Password": {
+                        required: "Please enter your password",
+                        minlength: "Password must be at least 6 characters long"
+                    },
+                    "Input.ConfirmPassword": {
+                        required: "Please confirm your password",
+                        equalTo: "Passwords do not match"
+                    }
+                },
+                errorClass: "text-danger",
+                validClass: "text-success",
+                errorElement: "span"
+            });
+        });
+    </script>
+</body>
+</html>

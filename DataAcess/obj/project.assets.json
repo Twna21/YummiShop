@@ -3439,11 +3439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\DataAcess\\DataAcess.csproj",
+      "projectUniqueName": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\New folder\\Shop\\DataAcess\\DataAcess.csproj",
       "projectName": "DataAcess",
-      "projectPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\DataAcess\\DataAcess.csproj",
+      "projectPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\New folder\\Shop\\DataAcess\\DataAcess.csproj",
       "packagesPath": "C:\\Users\\ytbhe\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\DataAcess\\obj\\",
+      "outputPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\New folder\\Shop\\DataAcess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3464,8 +3464,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPT Course\\Summer2024\\PRN221\\Project\\New folder\\Shop\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\New folder\\Shop\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }
@@ -3474,11 +3474,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

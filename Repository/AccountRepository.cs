@@ -23,6 +23,9 @@ namespace Repository
 
 
         public async Task Update(Account pro) => await AccountDAO.Instance.Update(pro);
-        public async Task GetAccountByEmail(string pro) => await AccountDAO.Instance.GetAccountByEmail(pro);
+        public async Task<Account> GetAccountByEmail(string pro) => await AccountDAO.Instance.GetAccountByEmail(pro);
+
+        public async Task ResetPassword(string email, string newPassword) => await AccountDAO.Instance.ResetPassword(email, newPassword);
+
     }
 }

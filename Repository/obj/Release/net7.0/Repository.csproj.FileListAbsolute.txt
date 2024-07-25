@@ -1,0 +1,17 @@
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\Repository.deps.json
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\Repository.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\Repository.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\DataAcess.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\BusinessObject.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\bin\Release\net7.0\DataAcess.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.csproj.Up2Date
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\refint\Repository.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\Repository.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\Repository\obj\Release\net7.0\ref\Repository.dll

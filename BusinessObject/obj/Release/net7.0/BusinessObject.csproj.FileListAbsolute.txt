@@ -1,0 +1,14 @@
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\bin\Release\net7.0\BusinessObject.deps.json
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\bin\Release\net7.0\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\bin\Release\net7.0\BusinessObject.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\refint\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\ref\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\bin\Release\net7.0\BusinessObject.runtimeconfig.json
+D:\FPT Course\Summer2024\PRN221\Project\Shop\BusinessObject\obj\Release\net7.0\BusinessObject.genruntimeconfig.cache
