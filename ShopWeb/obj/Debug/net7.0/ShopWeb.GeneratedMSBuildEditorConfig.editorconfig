@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShopWeb
 build_property.RootNamespace = ShopWeb
-build_property.ProjectDir = D:\FPT Course\Summer2024\PRN221\Project\Shop\ShopWeb\
+build_property.ProjectDir = D:\FPT Course\Summer2024\PRN221\Project\New folder\Shop\ShopWeb\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FPT Course\Summer2024\PRN221\Project\Shop\ShopWeb
+build_property.MSBuildProjectDirectory = D:\FPT Course\Summer2024\PRN221\Project\New folder\Shop\ShopWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/dashboard.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Admin/dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cZGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Admin/Index.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Error.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Index.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Privacy.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Products/Index.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_AdminLayout.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Users/Index.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/_ViewImports.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/_ViewStart.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Course/Summer2024/PRN221/Project/Shop/ShopWeb/Pages/Shared/_Layout.cshtml]
+[D:/FPT Course/Summer2024/PRN221/Project/New folder/Shop/ShopWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ubw9867rqb
