@@ -13,7 +13,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Symbols+Outlined" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="~/css/manager.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
+    <link href="~/css/admin.css" rel="stylesheet" />
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
@@ -30,8 +34,8 @@
             </div>
             <div class="header-right">
 
-                    <h5>Xin Chào </h5>
- 
+                <h5>Xin Chào Admin </h5>
+
             </div>
             <span class="material-icons-outlined">account_circle</span>
         </header>
@@ -49,26 +53,35 @@
 
             <ul class="sidebar-list">
                 <li class="sidebar-list-item">
-                    <a href="/admin/index" target="">
+                    <a href="/admin/dashboard" target="">
                         <span class="material-icons-outlined">dashboard</span> Dashboard
                     </a>
                 </li>
                 <li class="sidebar-list-item">
-                    <a href="BlogsManagerControl" target="">
-                        <span class="material-icons-outlined">inventory_2</span> Blogs
+                    <a href="/admin/ordermanager" target="">
+                        <span class="material-icons-outlined">inventory_2</span> Order Manager
                     </a>
                 </li>
                 <li class="sidebar-list-item">
 
-                    <a href="#" target="">
-                        <span class="material-icons-outlined">fact_check</span>  mmm
+                    <a href="/admin/orderdetail" target="">
+                        <span class="material-icons-outlined">fact_check</span>  Order Detail
+                    </a>
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="/admin/productmanager" target="">
+                        <span class="material-icons-outlined">manage_accounts</span> Product Manager
                     </a>
                 </li>
 
-
                 <li class="sidebar-list-item">
-                    <a href="/users/index" target="">
+                    <a href="/accounts/accountmanager" target="">
                         <span class="material-icons-outlined">manage_accounts</span> Account Manager
+                    </a>
+                </li>
+                <li class="sidebar-list-item">
+                    <a href="/admin/addcategory" target="">
+                        <span class="material-icons-outlined">manage_accounts</span> Category Manager
                     </a>
                 </li>
                 <li class="sidebar-list-item">
@@ -85,9 +98,26 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
         <!-- Custom JS -->
- 
 
-    </divv>
+        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/site.js"></script>
+        <script src="~/microsoft/signalr/dist/browser/signalr.js"></script>
+        <script src="~/microsoft/signalr/dist/browser/signalr.min.js"></script>
+
+        <script>
+            $(document).ready(function () {
+                var table = $('#myTable1').DataTable({
+                    lengthChange: false,
+                    pageLength: 5,
+                });
+
+
+            });
+        </script>
+
+    </div>
 
 </body>
 </html>

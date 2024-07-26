@@ -1,0 +1,20 @@
+﻿@page
+@model ShopWeb.Pages.Login.resetpassModel
+@{
+}
+
+<h2>Reset Password</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Email" />
+    <div class="form-group">
+        <label asp-for="NewPassword">New Password</label>
+        <input asp-for="NewPassword" class="form-control" type="password" />
+        <span asp-validation-for="NewPassword" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

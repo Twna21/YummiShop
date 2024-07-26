@@ -1,0 +1,15 @@
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\bin\Release\net7.0\DataAcess.deps.json
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\bin\Release\net7.0\DataAcess.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\bin\Release\net7.0\DataAcess.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\bin\Release\net7.0\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\bin\Release\net7.0\BusinessObject.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.csproj.Up2Date
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\refint\DataAcess.dll
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\DataAcess.pdb
+D:\FPT Course\Summer2024\PRN221\Project\Shop\DataAcess\obj\Release\net7.0\ref\DataAcess.dll

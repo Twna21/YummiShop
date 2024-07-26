@@ -1,0 +1,69 @@
+﻿@page
+@model ShopWeb.Pages.Admin.AddCategoryModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<!-- Main Container -->
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Add New <b>Category</b></h4>
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <!-- Category Name -->
+                        <div class="form-group">
+                            <label asp-for="Category.CategoryName" class="form-label">Category Name</label>
+                            <input asp-for="Category.CategoryName" class="form-control" placeholder="Enter category name" />
+                            <span asp-validation-for="Category.CategoryName" class="text-danger"></span>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="form-group mt-3">
+                            <button type="submit" class="btn btn-primary">Add Category</button>
+                            <a href="/Admin/CategoryList" class="btn btn-secondary">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Custom Styles -->
+<style>
+    .card-header {
+        background-color: #007bff; /* Primary color */
+    }
+
+    .form-label {
+        font-weight: bold;
+    }
+
+    .form-control {
+        border-radius: 0.25rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #4e555b;
+        }
+</style>

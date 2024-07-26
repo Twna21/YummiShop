@@ -3,28 +3,252 @@
   "WorkspaceRootPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\shopweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\shopweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\signalrserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\signalrserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\forgotpass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\forgotpass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\checkotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\checkotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\passwordresetconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\passwordresetconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\mailservice\\sendgmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\mailservice\\sendgmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\mailservice\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\mailservice\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\mailservice\\isendgmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\mailservice\\isendgmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\forgotpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\forgotpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\passwordresetconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\passwordresetconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\resetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\resetpass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\resetpass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\resetpass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\shared\\headerparital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\shared\\headerparital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\users\\editprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\users\\editprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\productmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\productmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\productmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\productmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\getproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\getproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C22FE-227E-47BA-9E55-291560C1A200}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C22FE-227E-47BA-9E55-291560C1A200}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\categorymanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\categorymanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C22FE-227E-47BA-9E55-291560C1A200}|BusinessObject\\BusinessObject.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C22FE-227E-47BA-9E55-291560C1A200}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\accounts\\accountmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\accounts\\accountmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\accounts\\accountmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\accounts\\accountmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\wwwroot\\css\\manager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\wwwroot\\css\\manager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\ordermanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\ordermanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\categorymanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\categorymanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\ordermanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\ordermanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\orderdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\orderdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\addcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\addcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\admin\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\admin\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\shopweb\\pages\\login\\checkotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EB09F77-26DF-4774-9267-6213EC2897FB}|ShopWeb\\ShopWeb.csproj|solutionrelative:shopweb\\pages\\login\\checkotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBE774E-D7A8-40B3-8F50-6F07D8F27C73}|DataAcess\\DataAcess.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\dataacess\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBE774E-D7A8-40B3-8F50-6F07D8F27C73}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|d:\\fpt course\\summer2024\\prn221\\project\\shop\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81363BB0-4906-4429-8338-C27B5BC95AE7}|Repository\\Repository.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +258,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 13,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ShopWeb\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:35:43.034Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -62,73 +273,751 @@
               "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckOtp.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\CheckOtp.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\CheckOtp.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\CheckOtp.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\CheckOtp.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:47:02.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Users\\Index.cshtml",
-              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\Index.cshtml",
-              "RelativeToolTip": "ShopWeb\\Pages\\Users\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:52:59.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dashboard.cshtml",
-              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\dashboard.cshtml",
-              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\dashboard.cshtml",
-              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\dashboard.cshtml",
-              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:49:14.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Index.cshtml",
-              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:43:18.04Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "forgotPass.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\forgotPass.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\forgotPass.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\forgotPass.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\forgotPass.cshtml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:25:29.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "manager.css",
-              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\manager.css",
-              "RelativeDocumentMoniker": "ShopWeb\\wwwroot\\css\\manager.css",
-              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\manager.css",
-              "RelativeToolTip": "ShopWeb\\wwwroot\\css\\manager.css",
-              "ViewState": "AQIAAAIBAAAAAAAAAAAowCsBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-18T12:41:27.284Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Program.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Program.cs",
+              "RelativeToolTip": "ShopWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:27:04.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Index.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\Index.cshtml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:47:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\Register.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Register.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:41:44.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T02:35:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Cart\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Cart\\Index.cshtml.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:50:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignalRServer.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\SignalRServer.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\SignalRServer.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\SignalRServer.cs",
+              "RelativeToolTip": "ShopWeb\\SignalRServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:07:22.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopWeb\\appsettings.json",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\appsettings.json",
+              "RelativeToolTip": "ShopWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T15:10:01.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T14:18:48.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShopWeb.csproj",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\ShopWeb.csproj",
+              "RelativeDocumentMoniker": "ShopWeb\\ShopWeb.csproj",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\ShopWeb.csproj",
+              "RelativeToolTip": "ShopWeb\\ShopWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T03:04:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordResetConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:51:13.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendGmailService.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\SendGmailService.cs",
+              "RelativeDocumentMoniker": "Repository\\MailService\\SendGmailService.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\SendGmailService.cs",
+              "RelativeToolTip": "Repository\\MailService\\SendGmailService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:05:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Repository\\MailService\\MailSettings.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\MailSettings.cs",
+              "RelativeToolTip": "Repository\\MailService\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:05:39.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISendGmailService.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\ISendGmailService.cs",
+              "RelativeDocumentMoniker": "Repository\\MailService\\ISendGmailService.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\MailService\\ISendGmailService.cs",
+              "RelativeToolTip": "Repository\\MailService\\ISendGmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:05:36.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:28:32.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:13:27.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "forgotPass.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\forgotPass.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\forgotPass.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\forgotPass.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\forgotPass.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:25:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Index.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:11:49.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OtpService.cs",
+              "RelativeDocumentMoniker": "Repository\\OtpService.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OtpService.cs",
+              "RelativeToolTip": "Repository\\OtpService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:43:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PasswordResetConfirmation.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\PasswordResetConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:41:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "resetpass.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\resetpass.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\resetpass.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\resetpass.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\resetpass.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:39:37.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "resetpass.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\resetpass.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\resetpass.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\resetpass.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\resetpass.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:40:05.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\AddProduct.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:18:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\Register.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\Register.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T04:23:31.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HeaderParital.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\HeaderParital.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Shared\\HeaderParital.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\HeaderParital.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Shared\\HeaderParital.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:30:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductManager.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\ProductManager.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\ProductManager.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\ProductManager.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\ProductManager.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:21:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ShopWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ShopWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T03:11:00.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Getproduct.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Getproduct.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\Getproduct.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Getproduct.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\Getproduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T03:39:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:19:27.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Users\\EditProfile.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\EditProfile.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Users\\EditProfile.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T04:11:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Shared\\FooterPartial.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\FooterPartial.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Shared\\FooterPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T04:17:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryManager.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\CategoryManager.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\CategoryManager.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\CategoryManager.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\CategoryManager.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:23:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductManager.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\ProductManager.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\ProductManager.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\ProductManager.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\ProductManager.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwDoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:21:44.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccountManager.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Accounts\\AccountManager.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Accounts\\AccountManager.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Accounts\\AccountManager.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Accounts\\AccountManager.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:44:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:16:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\EditProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Users\\EditProfile.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Users\\EditProfile.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Users\\EditProfile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T04:12:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Getproduct.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Getproduct.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\Getproduct.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Getproduct.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\Getproduct.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:39:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Order.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\BusinessObject\\Order.cs",
+              "RelativeToolTip": "BusinessObject\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:51:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "ShopWeb\\wwwroot\\css\\admin.css",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "ShopWeb\\wwwroot\\css\\admin.css",
+              "ViewState": "AQIAAA4BAAAAAAAAAABBwCIBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-21T16:38:15.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "manager.css",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\manager.css",
+              "RelativeDocumentMoniker": "ShopWeb\\wwwroot\\css\\manager.css",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\wwwroot\\css\\manager.css",
+              "RelativeToolTip": "ShopWeb\\wwwroot\\css\\manager.css",
+              "ViewState": "AQIAABQBAAAAAAAAAABBwCsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-21T16:33:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:30:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderManager.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderManager.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\OrderManager.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderManager.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\OrderManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:21:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\OrderDetail.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderDetail.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\OrderDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:21:04.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryManager.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\CategoryManager.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\CategoryManager.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\CategoryManager.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\CategoryManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:19:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:19:05.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddCategory.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddCategory.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\AddCategory.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddCategory.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\AddCategory.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:18:24.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\AddCategory.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\AddCategory.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\AddCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:18:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAccountRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "Repository\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:48:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\DataAcess\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAcess\\AccountDAO.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\DataAcess\\AccountDAO.cs",
+              "RelativeToolTip": "DataAcess\\AccountDAO.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwHUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:45:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CheckOtp.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\CheckOtp.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Login\\CheckOtp.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Login\\CheckOtp.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Login\\CheckOtp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:46:51.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOtpService.cs",
+              "RelativeDocumentMoniker": "Repository\\IOtpService.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOtpService.cs",
+              "RelativeToolTip": "Repository\\IOtpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:44:18.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "ShopWeb\\Pages\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "ShopWeb\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAADcAAAAAAAAAAAAvwEkAAAAuAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:36:04.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T13:37:37.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AccountManager.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Accounts\\AccountManager.cshtml",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Accounts\\AccountManager.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Accounts\\AccountManager.cshtml",
+              "RelativeToolTip": "ShopWeb\\Pages\\Accounts\\AccountManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:37:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderManager.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderManager.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\OrderManager.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderManager.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\OrderManager.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:26:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderDetail.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "ShopWeb\\Pages\\Admin\\OrderDetail.cshtml.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\ShopWeb\\Pages\\Admin\\OrderDetail.cshtml.cs",
+              "RelativeToolTip": "ShopWeb\\Pages\\Admin\\OrderDetail.cshtml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:26:52.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:26:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:26:17.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:25:55.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Repository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:25:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:25:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\Shop\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:24:42.158Z"
             }
           ]
         },

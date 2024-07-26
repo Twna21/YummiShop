@@ -30,20 +30,22 @@ namespace BusinessObject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AccountID"));
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("FullName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Password")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Photo")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<byte>("Status")
@@ -51,6 +53,9 @@ namespace BusinessObject.Migrations
 
                     b.Property<byte>("Type")
                         .HasColumnType("tinyint");
+
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("AccountID");
 
@@ -66,7 +71,6 @@ namespace BusinessObject.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
                     b.Property<string>("CategoryName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CategoryId");
@@ -82,6 +86,9 @@ namespace BusinessObject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
+                    b.Property<int?>("AccountID")
+                        .HasColumnType("int");
+
                     b.Property<int?>("CustomerId")
                         .HasColumnType("int");
 
@@ -92,7 +99,6 @@ namespace BusinessObject.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("ShipAddress")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("ShippedDate")
@@ -102,6 +108,8 @@ namespace BusinessObject.Migrations
                         .HasColumnType("tinyint");
 
                     b.HasKey("OrderId");
+
+                    b.HasIndex("AccountID");
 
                     b.ToTable("Orders");
                 });
@@ -139,11 +147,9 @@ namespace BusinessObject.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("ProductImage")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ProductName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("QuantityPerUnit")
@@ -157,6 +163,13 @@ namespace BusinessObject.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("BusinessObject.Order", b =>
+                {
+                    b.HasOne("BusinessObject.Account", null)
+                        .WithMany("Orders")
+                        .HasForeignKey("AccountID");
                 });
 
             modelBuilder.Entity("BusinessObject.OrderDetail", b =>
@@ -187,6 +200,11 @@ namespace BusinessObject.Migrations
                         .IsRequired();
 
                     b.Navigation("Categories");
+                });
+
+            modelBuilder.Entity("BusinessObject.Account", b =>
+                {
+                    b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("BusinessObject.Category", b =>

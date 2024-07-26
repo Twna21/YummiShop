@@ -1,0 +1,18 @@
+﻿@page
+@model ShopWeb.Pages.Login.CheckOtpModel
+@{
+}
+
+
+
+<h2>Check OTP</h2>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="post">
+    <input type="hidden" asp-for="Email" />
+    <div class="form-group">
+        <label for="otp">OTP</label>
+        <input id="otp" name="otp" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

@@ -1,0 +1,147 @@
+﻿@page
+@model ShopWeb.Pages.Cart.IndexModel
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+<section class="h-100">
+    <div class="container h-100 py-5">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-10">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h3 class="fw-normal mb-0">Shopping Cart</h3>
+                </div>
+
+                @foreach (var item in Model.CartItems)
+                {
+                    <div class="card rounded-3 mb-4">
+                        <div class="card-body p-4">
+                            <div class="row d-flex justify-content-between align-items-center">
+                                <div class="col-md-2 col-lg-2 col-xl-2">
+                                    <img src="@item.Image" class="card-img-top" alt="Product Image">
+                                </div>
+                                <div class="col-md-3 col-lg-3 col-xl-3 text-center border-custom">
+                                    <p class="lead fw-normal mb-2">@item.ProductName</p>
+                                    <p><span class="text-muted">Quantity: </span>@item.Quantity</p>
+                                </div>
+                                <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1">
+                                    <p>@item.TotalPrice.ToString("C")</p>
+                                </div>
+                                <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1 text-end">
+                                    <form method="post" asp-page-handler="RemoveFromCart">
+                                        <input type="hidden" name="productId" value="@item.ProductId" />
+                                        <button type="submit" class="btn btn-link text-danger">
+                                            <i class="fas fa-trash fa-lg">X</i>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+
+                <div class="card">
+                    <form method="post" asp-page-handler="ProceedToPay">
+                        <div class="card-body">
+                            <button type="submit" class="btn btn-warning btn-block btn-lg">BUY</button>
+                        </div>
+                    </form>
+                </div>
+
+
+                <hr />
+                <br />
+                <p> Order List</p>
+                <div class="d-flex justify-content-between align-items-center mb-4">
+
+                    <br>
+                    <hr>
+                    @if (Model.OrderDetail != null && Model.OrderDetail.Count > 0)
+                    {
+                        <table id="myTable1" class="table" style="width:100%;">
+                            <thead>
+                                <tr>
+
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Product.ProductName)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Product.ProductImage)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].UnitPrice)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Quantity)
+                                    </th>
+
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Order.ShipAddress)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Order.OrderDate)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.OrderDetail[0].Order.Status)
+                                    </th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.OrderDetail)
+                                {
+                                    <tr>
+
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Product.ProductName)
+                                        </td>
+                                        <td>
+                                            <img src="@item.Product.ProductImage" class="card-img-top" style="width:20%" alt="Product Image">
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.UnitPrice)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Quantity)
+                                        </td>
+
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Order.ShipAddress)
+                                        </td>
+
+                                        <td>@item.Order.OrderDate.ToString("dd/MM/yyyy")</td>
+                                        <td style="color: @(item.Order.Status == 1 ? "red" : "blue")">
+                                            @(item.Order.Status == 0 ? "dang giao" : (item.Order.Status == 1 ? "da nhan" : "Unknown Status"))
+                                        </td>
+                                        <td>
+                                            <form asp-page-handler="ChangeStatus" method="post">
+                                                <input type="hidden" name="orderId" value="@item.Order.OrderId" />
+                                                <input type="hidden" name="currentStatus" value="@item.Order.Status" />
+                                                <button type="submit" class="btn btn-primary">Change Status</button>
+                                            </form>
+                                        </td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+    @if (!string.IsNullOrEmpty(TempData["SuccessMessage"] as string))
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(TempData["ErrorMessage"] as string))
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
