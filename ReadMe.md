@@ -1,6 +1,11 @@
 ```markdown
-Web use ASP.NET core, RazorPage, SignalR<br>
+Web use ASP.NET core, RazorPage, SignalR
+Login Google, Mail Service
 DB: SQL Server
+
+link demo: twna.shop
+ac: tuongnmde170578@fpt.edu.vn
+pw: manhtuong1
 
 How to RUN:
 1: dotnet ef database update
